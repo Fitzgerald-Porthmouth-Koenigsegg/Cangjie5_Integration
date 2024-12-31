@@ -33418,6 +33418,7 @@
 𨿱	ibog
 𢽊	ibok
 𣀣	ibok
+𣀣	ibye
 𫷾	ibov
 𫺩	ibp
 𰯜	ibpha

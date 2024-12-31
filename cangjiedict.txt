@@ -34851,6 +34851,7 @@
 𫴶	iigdi
 𰍥	iigdi
 𭕄	iih
+𭕄	ic
 𪂑	iihaf
 𣂧	iihml
 𠫞	iihn

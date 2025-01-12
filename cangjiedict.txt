@@ -28436,6 +28436,7 @@
 𥵁	hnet
 㶡	hnf
 𤆒	hnf
+𤆒	nnf
 𤉉	hnf
 𤉌	hnf
 𥬞	hnf

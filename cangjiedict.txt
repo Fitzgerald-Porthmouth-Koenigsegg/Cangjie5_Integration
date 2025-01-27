@@ -16001,6 +16001,7 @@
 𪶤	eoto
 㵲	eotq
 𤃙	eott
+𤃙	eotj
 𣳈	eou
 𭖜	eou
 𣼱	eowb
@@ -16649,7 +16650,8 @@
 𣶽	etmi
 澕	etmj
 𤂹	etmj
-𤃊	etmj
+𤃊	etcj
+𤃊	etct
 𣵷	etml
 㳕	etmm
 𣾑	etmm
@@ -16657,7 +16659,8 @@
 𰜦	etmm
 𭲁	etmo
 渮	etmr
-𤀾	etmt
+𤀾	etct
+𤀾	etcj
 𭰳	etmu
 湛	etmv
 𣺋	etmw
@@ -108231,7 +108234,6 @@
 𤀡	xxetg
 𭳎	xxeti
 𣺏	xxetl
-𤃊	xxetm
 𤄶	xxetv
 𤃿	xxetw
 𤂍	xxety

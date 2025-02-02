@@ -252,6 +252,7 @@
 𣇽	aeee
 𪇰	aehaf
 𣋰	aehni
+𣋰	aehnv
 𩙕	aehni
 𣉔	aeii
 𰖟	aeiv
@@ -25443,6 +25444,7 @@
 𥡘	hdthb
 𥣑	hdthg
 𥟌	hdthn
+𥟌	hdthv
 𥟪	hdthu
 𮩦	hfthu​
 𥤆	hdtif
@@ -39674,6 +39676,7 @@
 𫠾	jlwc
 𣡏	jlwd
 𭓱	jlwi
+𭓱	jwli
 审	jlwl
 𡈋	jlwl
 𡧹	jlwm
@@ -48550,6 +48553,7 @@
 雵	mblbk
 𩅲	mblbo
 𩆬	mblco
+𩆬	mblbo
 𱁖	mbleg
 𩆳	mblhf
 𠮕	mblie
@@ -95124,6 +95128,7 @@
 𤲠	wyoj
 𡇻	wyoj
 𣫲	wyomn
+𣫲	wjomn
 𢘓	wyp
 毑	wypd
 𱉞	wypym
@@ -111291,7 +111296,6 @@
 𩁈	xypog
 𪊢	xypok
 䖈	xypp
-𪊖	xypph
 𱊰	xyppy
 𢸭	xypq
 𡃡	xypr
@@ -114879,7 +114883,7 @@
 𢤲	ypp
 虙	ypph
 𧇂	ypphh
-𪊖	ypphh
+𪊖	ipphh
 𥏉	yppk
 䖏	yppkk
 𰲧	ypppa

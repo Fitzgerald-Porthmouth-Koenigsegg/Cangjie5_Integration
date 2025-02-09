@@ -71869,7 +71869,7 @@
 𢱖	qtmd
 𪮍	qtmd
 𢵎	qtme
-𢸻	qtme
+𢸻	qtce
 𢯒	qtmf
 𭢧	qtmg
 撶	qtmj
@@ -104398,7 +104398,6 @@
 𰓍	xqtm
 撗	xqtmc
 𪮍	xqtmd
-𢸻	xqtme
 𢺊	xqtob
 𢴉	xqtod
 𢸺	xqtof

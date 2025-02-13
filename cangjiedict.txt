@@ -90491,6 +90491,8 @@
 𰫷	vfnwa
 𦂷	vfnwe
 𦂷	vfnwn
+𦂷	vfrvw
+𦂷	vfssw
 𦅥	vfnwu
 𫃧	vfnwu
 𬘇	vfnwu

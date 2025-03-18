@@ -13953,6 +13953,7 @@
 瀨	edlc
 瀬	edlc
 𤅯	edxe
+𤅯	edte
 𪄠	edlf
 𪆟	edlf
 潄	edlk

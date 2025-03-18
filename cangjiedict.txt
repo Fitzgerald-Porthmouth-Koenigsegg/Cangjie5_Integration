@@ -12792,6 +12792,7 @@
 𣝈	dthc
 𣓒	dthe
 𮫗	dthe
+𮫗	dxhe
 𬅑	dthf
 㯵	dthg
 樥	dthj
@@ -13951,7 +13952,7 @@
 涑	edl
 瀨	edlc
 瀬	edlc
-𤅯	edle
+𤅯	edxe
 𪄠	edlf
 𪆟	edlf
 潄	edlk
@@ -86027,6 +86028,8 @@
 节	tsl
 𦭧	tslb
 𮫙	tslb
+𮫙	tbtj
+𮫙	tmmb
 䕚	tslc
 菣	tsle
 𬝋	tsli

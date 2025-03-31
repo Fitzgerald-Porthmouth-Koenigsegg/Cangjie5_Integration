@@ -63341,7 +63341,7 @@
 𰦣	okdoo
 伖	oke
 𫨸	oke
-𭰋	oke
+𭰋	vke
 𥏞	okeee
 焂	okf
 𤌔	okf
@@ -109417,7 +109417,6 @@
 㐲	xxok
 𠋃	xxokb
 𪿈	xxokd
-𭰋	xxoke
 𤒥	xxokf
 𪄾	xxokh
 𬾝	xxokk

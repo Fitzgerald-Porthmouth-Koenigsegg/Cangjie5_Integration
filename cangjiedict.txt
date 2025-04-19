@@ -89373,6 +89373,7 @@
 𭒴	vayv
 𫰒	vb
 𬁯	vba
+𬁯	vmnna
 嫇	vbac
 𡞇	vbb
 𰌏	vbbb
@@ -89430,6 +89431,7 @@
 𡛾	vbq
 婤	vbqr
 𫬫	vbr
+𫬫	vmnnr
 𭑳	vbr
 婙	vbsd
 𢑦	vbshr
@@ -92275,6 +92277,7 @@
 绿	vmnme
 𫰞	vmnn
 𬋝	vmnnf
+𬋝	vbf
 𢑣	vmnok
 经	vmnom
 妸	vmnr
@@ -123249,7 +123252,6 @@
 𱏉	ompsh
 𱦕	omre
 𱰊	omrn
-𱰖	omrt
 𱳠	omru
 𱎫	omtc
 𱛛	omu

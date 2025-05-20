@@ -73215,6 +73215,7 @@
 𬠉	rhli
 㖄	rhll
 𭇩	rhlm
+𭇩	rhim
 𠞍	rhln
 𪡗	rhlo
 𫩜	rhlo

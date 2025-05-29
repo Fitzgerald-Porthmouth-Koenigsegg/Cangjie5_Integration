@@ -113563,7 +113563,7 @@
 𭎲	ykg
 𭏼	ykg
 𨕎	ykgr
-𪙯	ykgu
+𪙯	yksu
 𬨯	ykha
 鵁	ykhaf
 鷟	ykhaf
@@ -113836,7 +113836,9 @@
 𨓖	ylmp
 遣	ylmr
 𣥫	ylmu
+𣥫	ymum
 𣦋	ylmu
+𣦋	ymcu
 𨓢	ylmu
 𨘠	ylmv
 𭺦	ylmvn

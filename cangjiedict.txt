@@ -92381,6 +92381,7 @@
 㛒	vmrt
 𭛏	vmrt
 𦈝	vmrvc
+𦈝	vmruc
 𫱆	vmrw
 𮉩	vmryo
 𤕱	vmse

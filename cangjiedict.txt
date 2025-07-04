@@ -112119,6 +112119,7 @@
 𪯔	ybok
 𰕎	ybok
 𢂷	ybomr
+𢂷	jbomr
 𧫈	ybomr
 𬂕	ybond
 𣨦	ybooi

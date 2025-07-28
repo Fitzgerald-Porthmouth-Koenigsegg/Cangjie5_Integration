@@ -120037,7 +120037,7 @@
 ㇡	zsns
 ㇠	zsnu
 ㇅	zsnv
-㇈	zsnv
+㇈	zsnu
 ㇊	zsnv
 ㇍	zsnv
 ㇏	zso
@@ -125817,7 +125817,7 @@
 ⺄	nv
 ⻠	nv
 ㇅	nv
-㇈	nv
+㇈	nu
 ㇊	nv
 ㇍	nv
 ⻢	nvsm
@@ -127261,7 +127261,6 @@
 ㇆	mn
 ㇆	sn
 ㇇	mn
-㇈	su
 ㇊	su
 ㇍	sv
 ㇎	ss

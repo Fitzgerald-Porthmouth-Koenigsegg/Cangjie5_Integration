@@ -64316,6 +64316,7 @@
 𥇮	onmbu
 氥	onmcw
 𠎖	onmd
+𠎖	onsd
 𠇡	onmf
 𠈳	onmf
 㺸	onmgi

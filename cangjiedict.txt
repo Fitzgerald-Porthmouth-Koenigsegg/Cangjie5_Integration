@@ -15811,7 +15811,7 @@
 㴔	ensp
 溋	enst
 漲	ensv
-𣵊	enuq
+𣵊	eund
 𤀧	enuu
 𰛊	envm
 瀂	enwa

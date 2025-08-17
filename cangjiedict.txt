@@ -69919,6 +69919,7 @@
 𢸕	qhnj
 𢩰	qhnl
 𢭥	qhnm
+𢭥	qhnd
 𢷩	qhnm
 𫽢	qhnm
 擨	qhno
@@ -89479,6 +89480,7 @@
 𧱈	vcmso
 㜋	vcmt
 𡣣	vflu
+𡣣	vfou
 媨	vcmw
 娣	vcnh
 𨝉	vcnl

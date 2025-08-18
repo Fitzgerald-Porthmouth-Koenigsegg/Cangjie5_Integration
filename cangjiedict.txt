@@ -57057,6 +57057,7 @@
 䱢	nfbsd
 𩸤	nfbse
 𥁝	nfbt
+𥁝	ndbt
 𥁪	nfbt
 𩸒	nfbtu
 䱩	nfbtv

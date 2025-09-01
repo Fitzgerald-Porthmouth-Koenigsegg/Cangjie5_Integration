@@ -127404,7 +127404,7 @@
 キ	kk
 ク	hn
 ケ	oh
-コ	sm
+コ	nm
 ヵ	ks
 ヶ	oh
 が	kssy

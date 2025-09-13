@@ -84426,6 +84426,7 @@
 𧂖	tmgc
 𮑃	tmgd
 𦳙	tmge
+𦳙	tmok
 蘸	tmgf
 𦼓	tmgf
 𦿰	tmgf

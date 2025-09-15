@@ -4792,6 +4792,7 @@
 赒	bobgr
 𮌷	bobh
 𦊨	bobm
+𦊨	bcbm
 朒	bobo
 䏑	bobo
 𦘫	bobo

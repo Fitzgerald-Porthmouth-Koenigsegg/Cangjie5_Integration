@@ -33,3 +33,7 @@
 2. 整张表没有进行过排序，但不影响使用。
 3. 本码表所参考的字形基于万国码中（假想）陆标汉字的字形，（假想）台标汉字的字形，以及[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)中的字形，因此你会在码表当中看见大量的容错。
 4. 本码表对于[小狼毫输入法](https://github.com/rime/weasel)、[中州韵输入法](https://github.com/loaden/rime)、同文输入法、鼠须管输入法的相性较高。
+
+# 鸣谢
+[Jackchows的仓颉五代补完计划](https://github.com/Jackchows/Cangjie5)
+[Arthurmcarthur的仓颉三代补完计划](https://github.com/Arthurmcarthur/Cangjie3-Plus)

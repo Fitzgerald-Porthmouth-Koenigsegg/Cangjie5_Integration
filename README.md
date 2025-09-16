@@ -35,5 +35,5 @@
 4. 本码表对于[小狼毫输入法](https://github.com/rime/weasel)、[中州韵输入法](https://github.com/loaden/rime)、同文输入法、鼠须管输入法的相性较高。
 
 # 鸣谢
-[Jackchows的仓颉五代补完计划](https://github.com/Jackchows/Cangjie5)
-[Arthurmcarthur的仓颉三代补完计划](https://github.com/Arthurmcarthur/Cangjie3-Plus)
+* [Jackchows的仓颉五代补完计划](https://github.com/Jackchows/Cangjie5)
+* [Arthurmcarthur的仓颉三代补完计划](https://github.com/Arthurmcarthur/Cangjie3-Plus)

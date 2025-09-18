@@ -88483,6 +88483,7 @@
 𫵸	unom
 嶝	unot
 𡺎	unoy
+𡺎	unuy
 𮭦	unpym
 嵥	unqd
 凾	unre
@@ -90499,6 +90500,7 @@
 𦄦	vfnoi
 𦂹	vfnoo
 𦂯	vfnoy
+𦂯	vfnuy
 纔	vfnri
 繦	vfnri
 䋫	vfnsd

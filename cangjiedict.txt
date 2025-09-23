@@ -26481,6 +26481,7 @@
 睝	hhbu
 貿	hhbuc
 𧴭	hhbuc
+𧴭	hhhc
 𨊀	hhbun
 𮅎	hhbv
 𨈝	hhby
@@ -26575,10 +26576,12 @@
 𨈸	hhhjr
 笷	hhhl
 𢒉	hhhm
+𢒉	hhbm
 躲	hhhnd
 𨈔	hhhni
 𠝈	hhhnq
 辵	hhho
+辵	hhyo
 𢒩	hhhoo
 𫏯	hhhpe
 卿	hhhpl

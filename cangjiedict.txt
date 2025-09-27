@@ -127162,7 +127162,8 @@
 ㊠	mmz
 ㊡	od
 ㊢	bysm
-㊣	mx
+㊣	mylm
+㊣	wmym
 ㊤	ym
 ㊥	l
 ㊦	my
@@ -127173,7 +127174,8 @@
 ㊫	fbnd
 ㊬	sibt
 ㊬	smbt
-㊭	ox
+㊭	oylm
+㊭	woym
 ㊮	iobuc
 ㊮	mobuc
 ㊯	jkss
@@ -127259,7 +127261,6 @@
 ⺠	rup
 ⺤	hiih
 ⺥	hhii
-⺪	nx
 ⺭	iny
 ⺲	wll
 ⺶	tgh
@@ -127268,7 +127269,6 @@
 ⻁	yphu
 ⻆	nbg
 ⻈	isu
-⻊	rx
 ⻌	inno
 ⻍	ynno
 ⻍	inno
@@ -127279,8 +127279,6 @@
 ⻤	hwhi
 ⻦	hysm
 ⻫	yks
-⻭	xufd
-⻮	xuo
 ⻱	hbss
 ⻱	nxu
 ㇁	si
@@ -127983,7 +127981,6 @@
 型	hng
 堲	alg
 報	glre
-𡓤	gxoc
 売	gbhu
 夢	tbni
 奢	kqia

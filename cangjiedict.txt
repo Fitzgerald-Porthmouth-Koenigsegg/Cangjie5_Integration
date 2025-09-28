@@ -4894,6 +4894,7 @@
 㒷	bomc
 𦛼	bomc
 𪱡	bomf
+𪱡	bomd
 脍	bomi
 朎	boml
 脸	bomm

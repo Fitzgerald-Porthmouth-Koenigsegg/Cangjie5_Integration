@@ -38705,6 +38705,7 @@
 惠	jip
 𪧝	jipf
 㢤	jips
+㢤	jphs
 𢧭	jipua
 𱉧	jipym
 𢎇	jiq
@@ -89070,6 +89071,8 @@
 𡷶	uuoj
 𢼸	uuok
 𣁋	uuok
+𢼸	unok
+𣁋	uvok
 𭣩	uuok
 𩇿	uuolk
 𡷴	uuon

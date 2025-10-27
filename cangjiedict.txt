@@ -7921,6 +7921,7 @@
 䝆	phmso
 䝇	cumso
 䝈	mohmu
+䝈	momsu
 䝉	lbmso
 䝊	mojlo
 䝋	mojmf
@@ -49757,6 +49758,7 @@
 𢏺	xnmbn
 𢏻	nmnhh
 𢏼	ntd
+𢏽	synim
 𢏽	yynhh
 𢏾	nylv
 𢏿	njnu
@@ -112934,6 +112936,7 @@
 𭿀	ivbu
 𭿁	bueee
 𭿂	buili
+𭿂	burli
 𭿃	tbbu
 𭿄	butmv
 𭿅	buqkk
@@ -116749,6 +116752,7 @@
 𮫤	xhith
 𮫥	higit
 𮫦	himwd
+𮫧	ybhui
 𮫧	ybwui
 𮫨	hioma
 𮫩	iijd

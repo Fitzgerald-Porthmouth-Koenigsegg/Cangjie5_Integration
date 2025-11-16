@@ -49758,8 +49758,8 @@
 𢏺	xnmbn
 𢏻	nmnhh
 𢏼	ntd
-𢏽	synim
 𢏽	yynhh
+𢏽	synim
 𢏾	nylv
 𢏿	njnu
 𢐀	nnmw
@@ -107093,6 +107093,7 @@
 𬼾	xmmit
 𬼿	mom
 𬼿	xmom
+𬼿	mpom
 𬽀	lnmmi
 𬽁	miymp
 𬽂	iimmi
@@ -116752,8 +116753,8 @@
 𮫤	xhith
 𮫥	higit
 𮫦	himwd
-𮫧	ybhui
 𮫧	ybwui
+𮫧	ybhui
 𮫨	hioma
 𮫩	iijd
 𮫪	hiiop

@@ -38997,6 +38997,7 @@
 𠐬	ohsc
 𠐬	xohsc
 𠐭	otom
+𠐭	otmm
 𠐮	ohbd
 𠐯	oyrc
 𠐰	oymm

@@ -98961,6 +98961,7 @@
 𫝔	gtmu
 𫝕	mrv
 𫝖	hsmsc
+𫝖	nmsc
 𫝗	mhad
 𫝘	rku
 𫝘	xrku

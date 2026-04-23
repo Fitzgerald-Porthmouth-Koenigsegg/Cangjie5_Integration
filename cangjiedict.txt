@@ -2390,6 +2390,7 @@
 㚅	okmhm
 㚆	yahe
 㚇	uche
+㚇	ukche
 㚈	nij
 㚉	nsnin
 㚊	nnyvo
@@ -10989,6 +10990,7 @@
 傹	oytu
 傺	obof
 傻	ohce
+傻	ohwe
 傼	otlo
 傽	oytj
 傾	opmc
@@ -13629,9 +13631,10 @@
 夐	nbbue
 夑	ffhe
 夒	mche
-夒	mche​
+夒	muche​
 夓	hche
 夔	tche
+夔	tuche
 夕	ni
 外	niy
 夗	nisu
@@ -44939,12 +44942,14 @@
 𡕠	muhe
 𡕠	xmuhe
 𡕡	nche
+𡕡	nmche
 𡕢	mfhe
 𡕣	smhe
 𡕤	qkhe
 𡕥	buhe
 𡕥	xbuhe
-𡕦	lwce
+𡕦	lwche
+𡕦	lche
 𡕧	xynic
 𡕧	ynice
 𡕨	yrre
@@ -44954,12 +44959,14 @@
 𡕪	svhe
 𡕫	nche
 𡕫	xnche
+𡕫	nbche
 𡕬	ieyhn
 𡕭	wrhe
 𡕮	gigce
 𡕯	hihe
 𡕰	uche
 𡕰	xuche
+𡕰	uiche
 𡕱	nbahe
 𡕲	gohe
 𡕳	nabue
@@ -125158,6 +125165,7 @@
 𱈄	nmonk
 𱈅	nmuce
 𱈅	xnmuc
+𱈅	nmuke
 𱈆	nmfdv
 𱈇	nmpmm
 𱈈	nmpmm

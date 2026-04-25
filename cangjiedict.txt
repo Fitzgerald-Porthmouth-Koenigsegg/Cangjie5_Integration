@@ -116831,8 +116831,7 @@
 𮬝	nmuni
 𮬞	yenwm
 𮬟	nmirm
-𮬠	nmsme
-𮬠	xnmsm
+𮬠	nmnme
 𮬡	nmbbb
 𮬢	nmcim
 𮬢	xnmci

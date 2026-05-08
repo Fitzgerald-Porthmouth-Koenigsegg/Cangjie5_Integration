@@ -126196,9 +126196,7 @@
 𱓑	lhr
 𱓒	riks
 𱓒	rilo
-𱓓	rphi
-𱓓	rphp
-𱓓	rplu
+𱓓	rpkk
 𱓔	rwjo
 𱓕	rven
 𱓖	rdyb
@@ -127371,12 +127369,7 @@
 𱟳	qotn
 𱟳	qots
 𱟳	xqots
-𱟴	qhbi
-𱟴	qhbp
-𱟴	qlbi
-𱟴	qlbp
-𱟴	qlbu
-𱟴	xxqlb
+𱟴	qkbk
 𱟵	qihq
 𱟶	qkui
 𱟶	qkum
@@ -134196,7 +134189,7 @@
 𲩕	epmo
 𲩖	eqjb
 𲩗	epuf
-𲩘	eqki
+𲩘	eqkk
 𲩙	eggy
 𲩚	ebok
 𲩛	ethu

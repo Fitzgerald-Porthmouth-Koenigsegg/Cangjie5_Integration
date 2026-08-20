@@ -137845,7 +137845,6 @@
 ⼉	hu
 ⼞	bu
 ⼢	ke
-⼵	ne
 ⼹	sm
 ⼾	is
 ⽱	ib

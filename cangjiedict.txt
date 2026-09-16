@@ -19301,6 +19301,7 @@
 欤	xymno
 欤	ymno
 欥	ano
+𫠞	ano
 欥	xano
 欦	onno
 欦	xonno

@@ -74429,7 +74429,7 @@
 𦵺	twlo
 𦵺	xtwlo
 𦵻	tmia
-𦵻	ttca
+𦵻	tmca
 𦵼	tsrl
 𦵽	tafu
 𦵾	tfcb

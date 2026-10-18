@@ -101847,6 +101847,7 @@
 𫾮	csok
 𫾯	ijok
 𫾰	nyik
+𫾰	neok
 𫾱	slok
 𫾱	xslok
 𫾲	mbye

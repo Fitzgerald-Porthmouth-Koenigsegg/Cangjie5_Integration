@@ -100503,7 +100503,7 @@
 𫯃	gbwyo
 𫯄	ysgg
 𫯅	ghven
-𫯆	bcgah
+𫯆	icgah
 𫯇	ghygq
 𫯈	gtjcr
 𫯉	gmjtj
@@ -125863,9 +125863,7 @@
 𱏳	ycy
 𱏴	ttc
 𱏴	xxttc
-𱏵	iimc
 𱏵	iobc
-𱏵	iomc
 𱏶	bcjr
 𱏶	xxbcj
 𱏷	tctcc
